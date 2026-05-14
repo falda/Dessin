@@ -77,7 +77,36 @@ Fichier : 2026_05_13_exercice.kra
 
 
 === Jour 3 — 14 mai 2026 ===
-[à remplir en fin de session]
-
+Phase : 1 (reprise / calibrage Krita)
+Type : session courte
+Durée : ~1h
+Exercices :
+  - Warmup (2 calques) : lignes, ellipses, cercles avec rotation
+    canvas systématique
+  - Boîtes (calque "boxs") : construction méthode du Y avec
+    traits de prolongement pour vérifier la convergence des
+    arêtes parallèles
+  - Shading (calque "shadow") : une boîte ombrée, hachures,
+    ombre portée au sol
+Ressenti : la rotation canvas change tout, plus de blocage
+sur les diagonales. Aucune boîte parfaite, aucune vraiment
+ratée — niveau attendu à ce stade.
+Difficulté rencontrée :
+  - Ghosting pas appliqué systématiquement sur le warmup
+  - Ellipses et cercles encore irréguliers, probable problème
+    de pivot moteur (poignet plutôt qu'épaule)
+  - Boîtes trop grandes par rapport au canvas (manque de place
+    pour comparer plusieurs boîtes côte à côte)
+  - Shading : noir pur sur face supérieure (face en ombre ≠
+    noir pur), hachures choisies au lieu d'aplats malgré la
+    consigne
+À retenir / à tester demain :
+  - Moins de traits dans le warmup mais ghosting systématique
+  - Tester pivot épaule (pas poignet) pour les ellipses
+  - Travailler sur canvas plus grand (3000x3000 ou 4000x4000)
+    pour avoir plusieurs boîtes côte à côte
+  - Brosse Fill Block pour les exercices d'aplats (F6 > Fill)
+  - Sauvegarder avec tous les calques visibles pour relecture
+Fichier : 2026_05_14_exercice.kra
 
 --- Fin du journal ---
