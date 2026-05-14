@@ -1,0 +1,38 @@
+=============================================================
+  WORKFLOW EXPORT KRITA -> PNG APLATIS (fond blanc)
+=============================================================
+
+But : transformer un fichier .kra multicalques en plusieurs PNG
+isolés (un par calque), avec fond blanc, prêts à être partagés
+ou archivés.
+
+-------------------------------------------------------------
+  WORKFLOW DE SESSION (à faire à chaque export)
+-------------------------------------------------------------
+
+Étape 1 — Préparer le .kra dans Krita
+- Organiser les calques en groupes nommés explicitement
+  (exemples : warmup, boxs, shadow, etc.).
+- Le calque "Background" doit rester invisible ou être supprimé
+  (sinon il s'ajoute à chaque export).
+- Sauvegarder le .kra (Ctrl+S).
+
+Étape 2 — Exporter les calques
+- Tools > Scripts > Export Layers
+- Destination : un dossier dédié à la session
+  (exemple : ~/Bureau/AAAA_MM_JJ_exercice/)
+- Format : PNG
+- Lancer l'export.
+  -> Tu obtiens un PNG par calque, fond transparent (damier).
+
+Étape 3 — Aplatir sur fond blanc
+Dans un terminal :
+
+Une fois dans le terminal se rendre dans le dossier des PNGs et copier coller: 
+
+shopt -s nocaseglob
+for f in *.png; do
+  convert "$f" -background white -alpha remove -alpha off "$f"
+done
+shopt -u nocaseglob
+
