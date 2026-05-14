@@ -1,0 +1,83 @@
+JOURNAL DE BORD - APPRENTISSAGE DESSIN ET KRITA
+Loïc — débuté le 12 mai 2026
+
+===============================================================
+TEMPLATE D'ENTRÉE
+===============================================================
+
+=== Jour N — date ===
+Phase : [1, 2, 3 ou 4]
+Type : [session courte | session longue]
+Durée : [minutes]
+Exercices : [liste courte]
+Ressenti : [1-2 lignes, factuel]
+Difficulté rencontrée : [si applicable]
+À retenir / à tester demain : [si applicable]
+Fichier : [nom du .kra]
+
+Garder court. 5 à 10 lignes maximum. Format télégraphique.
+Pas d'auto-flagellation (cf. méta-règle 1 du programme).
+
+
+===============================================================
+ENTRÉES
+===============================================================
+
+
+=== Jour 1 — 12 mai 2026 ===
+Phase : 1 (reprise / calibrage Krita)
+Type : session courte
+Durée : ~1h
+Exercices :
+  - Setup Krita (workspace minimal, autosave, raccourcis)
+  - Diagnostic et fix tablette XP-PEN (Ctrl+W → Ctrl+Z remappé)
+  - Warm-up : lignes droites, courbes, vagues, cercles, ellipses
+  - Pipeline numérique : objet simple (livre Girard)
+    Étapes : sketch → line → color → shadow
+Ressenti : setup laborieux mais nécessaire. Premier dessin
+livre Girard correct en intention, lumière incohérente,
+construction floue.
+Difficulté rencontrée : trait hésitant (wobble), ombre posée
+sans logique directionnelle.
+À retenir : ne plus optimiser les réglages, commencer à
+dessiner pour de vrai.
+Fichiers : 2026_05_12_warm_up.kra, 2026_005_12_exercice.kra
+
+
+=== Jour 2 — 13 mai 2026 ===
+Phase : 1 (reprise / calibrage Krita)
+Type : session courte
+Durée : ~1h
+Exercices :
+  - Warm-up : lignes ghostées, ellipses dans rectangles
+  - 11 boîtes en méthode du Y, orientations variées
+  - Ombres par hachures appliquées sur les boîtes
+    (consigne initiale était 5 boîtes pures + 1 boîte ombrée
+    à l'aplat — fusion involontaire des deux étapes)
+Ressenti : progrès moteur sur les traits par rapport au
+jour 1, moins de tremblement. Méthode du Y appliquée
+correctement sur la majorité des boîtes. Logique de lumière
+unique (haut-gauche) appliquée sur l'ensemble.
+Difficulté rencontrée : tendance à divergence des arêtes au
+lieu de convergence (boîtes "trop ouvertes"). Pas d'arêtes
+cachées tracées pour vérifier la 3D. Inconfort majeur sur
+les traits qui ne vont pas de gauche à droite, dû à
+l'absence de rotation canvas dans la pratique.
+À retenir :
+  - Découverte rotation canvas (Shift+Espace+drag ou 4/6/5).
+    Game changer. À intégrer systématiquement.
+  - Différence taille curseur / taille trait expliquée par
+    la sensibilité à la pression. Connue maintenant.
+  - Continuer la méthode du Y mais imposer la fermeture
+    des arêtes cachées pour vérifier la cohérence 3D.
+  - Test à faire : exercice inverse, point de fuite imposé
+    sur le canvas, construire des boîtes qui convergent vers
+    lui.
+Fichier : 2026_05_13_exercice.kra
+
+
+=== Jour 3 — 14 mai 2026 ===
+[à remplir en fin de session]
+
+
+--- Fin du journal ---

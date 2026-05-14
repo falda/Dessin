@@ -1,0 +1,279 @@
+PROGRAMME D'APPRENTISSAGE DESSIN ET KRITA
+Loïc — version 1.0 — mai 2026
+
+
+===============================================================
+OBJECTIF GLOBAL
+===============================================================
+
+Atteindre des fondamentaux solides en dessin numérique sous Krita.
+Cible minimale : être capable de produire des illustrations
+lisibles, construites, avec une lumière cohérente, en couleur.
+
+Objectif au-delà des fondamentaux : à décider à la fin de la
+phase 3, en fonction du niveau atteint et de l'envie réelle à
+ce moment-là. Application au projet L'Abîme prévue en phase 4
+mais pas garantie comme objectif final ferme.
+
+Cible C (plaisir + déblocage personnel) reconnue comme
+motivation honnête sous-jacente. C'est OK. Le plaisir est un
+moteur valide, pas un défaut.
+
+
+===============================================================
+CONTRAINTES DE CADRE
+===============================================================
+
+Temps disponible total projet L'Abîme : 5 à 15h par semaine.
+Temps dessin cible : environ 6,5h par semaine répartis ainsi :
+  - 6 sessions courtes quotidiennes (30 à 60 min)
+  - 1 session longue hebdomadaire (1,5 à 2,5h)
+
+Quotidien comme cible, pas comme dogme. 5 à 6 sessions par
+semaine c'est très bien. 7 sur 7 systématique est suspect —
+souvent signe d'un rythme qui va casser.
+
+Compatible avec :
+  - Plan Unity en 5 étapes (combat tactique L'Abîme)
+  - Apprentissage Ink en parallèle
+  - Report explicite de Blender à plus tard (après validation
+    de l'étape 3 Unity ET fondamentaux dessin solides)
+
+Règle d'arbitrage en cas de surcharge (semaine Unity intense
+ou autre) :
+  1. Warm-up quotidien (10 min) — non négociable
+  2. Session longue hebdo — à préserver
+  3. Sessions courtes "exercice principal" — sacrifiables
+
+Cette hiérarchie permet de garder le rythme minimum sans
+culpabilité quand l'arbitrage est nécessaire.
+
+
+===============================================================
+STRUCTURE EN 4 PHASES
+===============================================================
+
+Durées indicatives, pas un calendrier strict. Si une phase
+prend 2x plus de temps que prévu, c'est OK. Si elle prend 10x
+plus, on en rediscute.
+
+
+--- PHASE 1 — Reprise et calibrage Krita ---
+Durée indicative : 1 à 2 mois.
+
+Objectif : retrouver le niveau papier d'avant la pause
+(post-Drawabox/Proko), transposer en numérique, automatiser
+les fonctions essentielles de Krita.
+
+Contenu type :
+  - Warm-up : lignes droites confiantes, ellipses, courbes
+  - Construction de boîtes (méthode du Y, convergence)
+  - Cylindres et sphères en construction
+  - Lumière sur formes primaires (aplats, puis dégradés simples)
+  - Maîtrise Krita : calques, brosses, rotation canvas,
+    raccourcis essentiels
+
+Sujets : modèles génériques uniquement (objets neutres,
+formes primaires, natures mortes simples). Pas de référence
+à L'Abîme à ce stade pour éviter le polish prématuré.
+
+Critère de sortie : produire une nature morte de 3-4 objets
+primitifs avec construction propre et lumière cohérente, en
+niveaux de gris, sans frustration technique sur Krita.
+
+
+--- PHASE 2 — Volume et anatomie ---
+Durée indicative : 2 à 3 mois.
+
+Objectif : reprendre l'anatomie figure humaine où elle avait
+été laissée (Proko). Construction de la tête en priorité,
+puis corps simplifié.
+
+Contenu type :
+  - Têtes en construction (méthode Loomis)
+  - Plans du visage
+  - Gesture drawing (poses courtes)
+  - Mannequin simplifié, proportions
+  - Anatomie main et bras simplifiée
+  - Continuation des warm-up phase 1
+
+Sujets : modèles génériques (références photo neutres, sites
+type Quickposes, Line of Action).
+
+Critère de sortie : dessiner une tête de personnage en
+construction propre sous trois angles différents (face, 3/4,
+profil), avec lumière cohérente.
+
+
+--- PHASE 3 — Couleur ---
+Durée indicative : 2 à 3 mois.
+
+Objectif : casser le blocage couleur identifié en pratique
+papier. C'est la phase de résolution d'un problème ancien,
+pas une simple progression linéaire.
+
+Contenu type :
+  - Théorie couleur appliquée (température, saturation, value)
+  - Color studies de maîtres (palette limitée)
+  - Value studies en noir et blanc puis transposition couleur
+  - Lumière en couleur (chaude/froide, ambiance)
+  - Master copies (copie de tableaux choisis)
+
+Sujets : mélange. Études de maîtres + sujets génériques +
+quelques premières incursions L'Abîme si l'envie est là.
+
+Critère de sortie : produire une illustration en couleur, à
+palette limitée, dont le résultat est jugé satisfaisant
+selon des critères techniques (pas selon "c'est beau").
+
+
+--- PHASE 4 — Application L'Abîme (ouverte) ---
+Durée indicative : ouverte, en parallèle de la production du
+jeu.
+
+Objectif : produire les premiers concepts art utilisables pour
+L'Abîme. Cette phase n'a pas de fin définie — elle continue
+tant que le jeu se construit.
+
+Contenu type :
+  - Mood boards et études d'ambiance par lieu
+  - Portraits de personnages clés (mentor, médecin, fonctionnaire,
+    entité, Soutien initial, Opposant)
+  - Vues d'ambiance (cité-paroi, tanière des vers, panorama de
+    descente, gouffre)
+  - Studies préparatoires pour Blender quand ce dernier viendra
+
+
+===============================================================
+STRUCTURE D'UNE SESSION
+===============================================================
+
+--- Sessions courtes (30 à 60 min, 6 fois par semaine) ---
+
+  1. Warm-up dirigé (5 à 10 min)
+     - Lignes confiantes avec méthode ghosting
+     - Ellipses en série
+     - Variation des angles (utiliser la rotation canvas)
+     - Calque dédié, pas de Ctrl+Z
+
+  2. Exercice principal de la phase en cours (20 à 45 min)
+     - Sur calque séparé
+     - Pas de Ctrl+Z sur fondamentaux (ligne acceptée)
+     - Ctrl+Z autorisé sur exercices de pipeline (shading,
+       composition)
+
+  3. Note de fin de session dans journal_dessin.txt (2 à 5 min)
+     - Format télégraphique, 5-10 lignes
+     - Voir template dans le journal
+
+
+--- Session longue (1,5 à 2,5h, 1 fois par semaine) ---
+
+Jour fixe à choisir (samedi ou dimanche recommandé). La
+régularité du jour compte plus que le jour lui-même.
+
+Différences avec les sessions courtes :
+  - Pas de warm-up dirigé, attaque directe du sujet
+  - Pas d'exercice ciblé : application intégrée
+  - Sujet plus ambitieux selon la phase :
+      Phase 1 : nature morte construite avec lumière
+      Phase 2 : étude de tête, gesture longue, copie Bridgman
+      Phase 3 : master copy en couleur
+      Phase 4 : production de concept L'Abîme
+  - Polish autorisé et même encouragé (seule session où il
+    est légitime)
+  - Pas obligatoire de finir — peut déborder sur la semaine
+    suivante si nécessaire
+
+Si une semaine sans session longue : on ne la rattrape pas
+en doublant la suivante. On accepte la semaine sans, point.
+
+
+===============================================================
+MÉTA-RÈGLES
+===============================================================
+
+1. Pas d'auto-flagellation.
+   Mots interdits dans le journal et dans la pratique :
+   "horrible", "nul", "raté", "honteux", "catastrophique".
+   Diagnostic factuel uniquement.
+
+2. Construction avant rendu, toujours.
+   C'est le point faible identifié. Pas de shading, pas de
+   détail, pas de polish tant que la structure n'est pas
+   posée et vérifiée.
+
+3. Pas de polish prématuré.
+   Un exercice de fondamentaux n'a pas à être beau. Sa
+   réussite se mesure à la justesse de la construction, pas
+   à l'esthétique du résultat.
+
+4. Cible 6,5h/semaine soutenable.
+   Pas plus durablement. Si tendance à pousser au-delà :
+   c'est un signe d'alerte, pas de réussite.
+
+5. Toute décision sur un nouveau front technique se prend
+   après vérification du scope global.
+   Blender, illustration avancée, animation : pas
+   d'ouverture unilatérale, on en discute d'abord.
+
+6. Une session manquée n'est pas un échec.
+   Le programme tolère 1 à 2 sessions manquées par semaine
+   sans intervention. Au-delà, on regarde ce qui se passe.
+
+7. Sauter un jour sans culpabilité.
+   Le 7/7 n'est pas l'objectif. 5/7 ou 6/7 est l'objectif.
+
+
+===============================================================
+RAPPELS KRITA UTILES
+===============================================================
+
+Raccourcis :
+  B           Brosse
+  E           Gomme (à éviter sur fondamentaux)
+  [  ]        Diminuer / augmenter taille brosse
+  Shift+drag  Ajuster taille brosse en continu
+  Espace+drag Déplacer canvas
+  Ctrl+molette ou + / -  Zoom
+  4 / 6       Rotation canvas (15° à gauche / droite)
+  5           Reset rotation canvas
+  Shift+Espace+drag  Rotation libre canvas
+  M           Miroir horizontal canvas
+  F5          Brush Settings
+  F6          Choose Brush Preset
+  Ctrl+S      Enregistrer (à faire régulièrement)
+
+Calques :
+  - Un calque par type d'exercice dans la session
+  - Renommer chaque calque (double-clic sur le nom)
+  - Verrouiller (icône cadenas) les calques "finis" pour
+    éviter de dessiner dessus par erreur
+
+Brosse de base : Basic-5 Size (par défaut).
+Sensibilité à la pression activée par défaut : si le trait
+est trop fin alors que le cercle est gros, c'est normal,
+appuyer plus fort ou désactiver la pression (F5 > Size >
+décocher Pressure).
+
+Optimisation taille fichiers :
+  - Canvas 1500x1500 à 150 DPI suffit pour les exercices
+  - Aplatir (Ctrl+Shift+E) avant archivage si calques inutiles
+
+
+===============================================================
+SUIVI ET ÉVOLUTION
+===============================================================
+
+Ce programme est une référence stable, mis à jour rarement
+(révision majeure tous les 2-3 mois ou à la transition entre
+phases).
+
+Pour le suivi quotidien, utiliser journal_dessin.txt.
+
+Pour reprendre une session de travail avec Claude :
+coller programme_dessin.txt + les 5 à 10 dernières entrées
+de journal_dessin.txt en début de conversation.
+
+
+--- Fin du programme ---
