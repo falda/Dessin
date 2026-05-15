@@ -1,0 +1,17 @@
+# Fichiers sources Krita — restent en local, sauvegardés par Backintime
+*.kra
+*.kra~
+*.kra.autosave
+
+# Fichiers temporaires Krita
+*.kra-bak
+
+# Système
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# Caches éventuels
+__pycache__/
+*.pyc

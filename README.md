@@ -4,8 +4,9 @@
 - Le dossier "session_quotidienne" contient les dessins effectué avec krita dans le cadre des sessions warm-up
 Ils sont stocké dans un dossier contenant un png de chaque layer du dessin krita
 - Le dossier "krita" contient les fichiers en format .kra
-Ils ne seront pas visibles dans le contexte du projet pour éviter de le saturer.
+Ils sont dans le .gitignore pour éviter de saturer git et le contexte du projet.
 - Le dossier "exercices" contient les dessins effectué avec krita dans le cadre des sessions exercices
+Ils sont stocké dans un dossier contenant un png de chaque layer du dessin krita
 - Le dossier "portfolio" contient des dessins que je trouve réussit ou qui me plaisent et que je compte conserver pour potentiellement les ajouter dans un futur portfolio
 
 À la racine du projet on a: 
