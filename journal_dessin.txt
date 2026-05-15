@@ -109,4 +109,42 @@ Difficulté rencontrée :
   - Sauvegarder avec tous les calques visibles pour relecture
 Fichier : 2026_05_14_exercice.kra
 
+=== Jour 4 — 15 mai 2026 ===
+Phase : 1 (reprise / calibrage Krita)
+Type : session courte
+Durée : ~1h
+Exercices :
+  - Warmup lignes : ghosting systématique (marques X aux
+    extrémités), quantité réduite, traits propres
+  - Warmup ellipses : test pivot moteur, épaule sur grandes
+    ellipses, coude sur petites — distinction visible à
+    l'image
+  - Boîtes (calque "pointdefuite") : exercice inverse, PF
+    unique imposé sur axe vertical central, 6 boîtes
+    orientations variées
+  - Shading : aplat raté, absence de Fill_block dans
+    Krita 5.3+, brosse de substitution a écrasé la
+    construction en noir pur
+Ressenti : warmup et ellipses conformes aux consignes du
+jour 3. Boîtes en progrès sur la convergence par rapport
+au jour 2 (problème "trop ouvertes" reculé), mais boîtes
+proches du PF mieux résolues que celles éloignées. Shading
+non exploitable pour diagnostic.
+Difficulté rencontrée :
+  - Boîtes trop grandes : 6 boîtes saturent le canvas, peu
+    de répétition possible (problème jour 3 partiellement
+    corrigé seulement)
+  - Convergence acquise sur boîtes proches du PF,
+    approximative sur boîtes éloignées
+  - Brosse d'aplat à régler : Fill_block n'existe plus
+    sous ce nom dans Krita 5.3+
+À retenir / à tester demain :
+  - Boîtes plus petites : viser 10-15 boîtes sur le canvas
+    pour densifier la pratique
+  - Régler la brosse d'aplat avant le jour 5 (dupliquer
+    Basic-1, désactiver pression sur Size et Opacity,
+    sauvegarder comme Aplat_perso)
+  - Face en ombre = valeur grise (60-70 %), pas noir pur
+Fichier : 2026_05_15_exercice.kra
+
 --- Fin du journal ---
