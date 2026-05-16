@@ -147,4 +147,49 @@ Difficulté rencontrée :
   - Face en ombre = valeur grise (60-70 %), pas noir pur
 Fichier : 2026_05_15_exercice.kra
 
+=== Jour 5 — 16 mai 2026 ===
+Phase : 1 (reprise / calibrage Krita)
+Type : session longue (première du programme)
+Durée : 2h
+Exercices :
+  - Nature morte 3 objets primitifs (rouleau essuie-tout
+    comme cylindre, pomme comme sphère, boîte Galaxy SIII
+    comme boîte), lumière unique latérale gauche
+  - Construction (calque "Construction") : volumes
+    englobants, axes, ellipses
+  - Line (calque "Line") : contour propre
+  - Values (calque "Values") : aplats en niveaux de gris,
+    3 valeurs
+  - Polish : non réalisé (méthode des aplats inconnue,
+    décision de ne pas forcer)
+Ressenti : confusion entre construction et line résolue
+en cours de session. Cylindre interprété en cône au line.
+Sphère perd son volume car croix d'équateur abandonnée.
+Méthode des aplats découverte comme manquante (logique de
+dégradé appliquée à la place).
+Difficulté rencontrée :
+  - Construction faite en traits assurés au lieu de trait
+    léger exploratoire (méthode numérique du calque à
+    opacité réduite pas connue)
+  - Perspective de la boîte : arêtes parallèles ne
+    convergent pas
+  - Cylindre transformé en cône au line
+  - Méthode aplats inconnue : intuition "commencer par le
+    sombre" appliquée alors que c'est l'inverse
+  - Brosse utilisée a une texture intégrée, pas idéale
+    pour aplats purs
+À retenir / à tester :
+  - Construction : opacité de brosse à 30% pour avoir un
+    trait léger corrigible (équivalent crayon de bois)
+  - Méthode aplats : 1. silhouette en gris moyen, 2.
+    zones claires posées par-dessus, 3. zones d'ombre,
+    4. ombre portée au sol
+  - Cylindre : vérifier que les deux ellipses (haut et
+    bas) ont la même largeur, sinon c'est un cône
+  - Sphère : garder la croix d'équateur visible jusqu'au
+    line pour préserver le volume
+  - Retrouver une vraie brosse d'aplat sans texture
+    (à régler hors session)
+Fichier : 2026_05_16_sessionlongue.kra
+
 --- Fin du journal ---
