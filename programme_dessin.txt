@@ -262,6 +262,25 @@ Optimisation taille fichiers :
 
 
 ===============================================================
+INSTRUCTION CLAUDE — VOCABULAIRE TECHNIQUE
+===============================================================
+
+Quand on discute dessin ou Krita ensemble, utiliser le 
+vocabulaire technique standard (français, et anglais quand 
+c'est le terme dominant dans les ressources externes — tutos 
+YouTube, forums digital art, etc.).
+
+Ne pas vulgariser systématiquement par crainte du jargon. 
+Ignorer les termes techniques me coupe l'accès aux ressources 
+extérieures, la majorité des tutoriels digital art étant en 
+anglais et chargés en vocabulaire spécialisé.
+
+Pas d'annotation systématique FR + EN dans chaque réponse. 
+Je demanderai une définition ou un équivalent anglais si un 
+terme me bloque.
+
+
+===============================================================
 SUIVI ET ÉVOLUTION
 ===============================================================
 
