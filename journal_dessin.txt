@@ -192,4 +192,80 @@ Difficulté rencontrée :
     (à régler hors session)
 Fichier : 2026_05_16_sessionlongue.kra
 
+=== Jour 6 — 18 mai 2026 ===
+Phase : 1 (reprise / calibrage Krita)
+Type : session courte
+Durée : ~1h
+Exercices :
+  - Warmup (calque "warmup") : ellipses sur axes guides
+    obliques, rotation canvas systématique, pivot épaule
+    sur grandes, coude sur petites
+  - Cylindres (calque "cylindres_construction") :
+    construction tentée avec axe + ellipses + tangentes,
+    2 cylindres seulement
+  - Bonus (anticipation J7) : cube en construction +
+    aplats 3 valeurs avec ombre portée, méthode J5
+    appliquée, brosse Basic-1 avec opacités variables
+Ressenti : warmup et bonus aplats conformes aux consignes.
+Cylindres pas acquis : tangentes tracées convergentes
+au lieu de parallèles à l'axe, résultat = troncs de cône.
+Critère J5 "même largeur d'ellipse aux deux bouts" pas
+respecté.
+Difficulté rencontrée :
+  - Confusion construction orthogonale / perspective forte
+    sur les cylindres
+  - Aplats : méthode opacité variable fonctionne mais peu
+    reproductible et valeurs non maîtrisées
+  - Vague sur bord cube/ombre portée due au tracé à main
+    levée, pas à la structure des calques
+À retenir / à tester demain :
+  - Cylindres : tangentes STRICTEMENT parallèles à l'axe.
+    Test mental : "si je prolonge, elles se rejoignent ?"
+    Si oui → cône, recommencer.
+  - Aplats : passer à brosse 100% opacité + plusieurs
+    vraies valeurs de gris dans la palette (sélecteur de
+    couleur), pas l'opacité du brush
+  - Bords nets : utiliser sélection polygonale (P) ou
+    Alpha Lock avant de poser l'aplat, pas le tracé libre
+  - Tester structure : calque silhouette par objet + alpha
+    lock + valeurs par-dessus
+Fichier : 2026_05_18_exercice.kra
+
+
+=== Jour 7 — 19 mai 2026 ===
+Phase : 1 (reprise / calibrage Krita)
+Type : session courte
+Durée : ~1h
+Exercices :
+  - Warm-up : lignes ghostées, ellipses, triangle convergent
+  - Aplats : 2 cubes en perspective, 3 valeurs, lumière directionnelle
+    (méthode silhouette → clairs → ombres → ombre portée appliquée)
+  - Cylindres : 6 cylindres orientations variées, minor axis + croix
+    aux extrémités, sans box englobante (cylinders around arbitrary
+    minor axes)
+Ressenti : aplats validés, corrections J4 (face en ombre = gris pas
+noir) et J5 (méthode de pose découverte) bien intégrées. Cylindres
+exploitables comme première itération, ressenti difficile cohérent
+avec la nature de l'exercice (250 Cylinder Challenge réputé plus dur
+que le 250 Box).
+Difficulté rencontrée :
+  - Cylindres : degree shift souvent inversé ou inexistant (ellipse
+    lointaine devrait être plus large, pas plus étroite)
+  - Foreshortening incohérent (scale shift et degree shift parfois
+    contradictoires)
+  - Ellipses en "citron" (pointes aux extrémités du grand axe),
+    symptôme de stylet levé trop tôt
+  - Minor axis tracé seulement entre les centres, pas en entier à
+    travers les ellipses
+À retenir / à tester demain :
+  - Cylindres : drawing through systématique (2-3 tours sans lever
+    le stylet), minor axis traversant entièrement chaque ellipse,
+    vérification consciente du degree shift (lointaine plus large)
+  - Démarrer sphères en construction (cercle + croix d'équateur
+    perpendiculaires) — trou identifié dans la phase 1
+  - Ghosting : compter les passages mentalement (1-2-3, pose),
+    pivot épaule même pour petites ellipses
+  - Pas de Ctrl+Z sur ellipse ratée : on en pose une nouvelle à côté
+Fichier : 2026_05_19_exercice.kra
+
 --- Fin du journal ---
