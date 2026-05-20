@@ -268,4 +268,49 @@ Difficulté rencontrée :
   - Pas de Ctrl+Z sur ellipse ratée : on en pose une nouvelle à côté
 Fichier : 2026_05_19_exercice.kra
 
+
+=== Jour 8 — 20 mai 2026 ===
+Phase : 1 (reprise / calibrage Krita)
+Type : session courte
+Durée : ~1h
+Exercices :
+  - Warmup : lignes, hachures, ellipses en série, ghosting
+    triangulaire, ellipses dans couloirs convergents
+  - Cylindres en boîte : 5 cylindres, méthode box → X dans
+    les faces → axe → ellipses inscrites → arêtes tangentes
+    (changement de méthode validé en cours de session par
+    rapport au "free" prévu initialement)
+  - Sphères en construction : 5 sphères, cercle + croix
+    d'équateur en 2 ellipses perpendiculaires
+Ressenti : saut qualitatif sur les cylindres par rapport au
+J7, la box rend les étapes explicites et la cohérence
+scale/degree devient observable. Sphères acquises plus vite
+que prévu, méthode comprise dès la première séance.
+Difficulté rencontrée :
+  - Cylindres : un cylindre presque cube (orientations à
+    varier davantage), un avec box en forte perspective
+    mais tangentes quasi parallèles (incohérence scale/
+    degree), un grand avec minor axis non tracé en entier
+    → ambiguïté de placement de la face arrière
+  - Sphères : ellipses qui dépassent du cercle sur la
+    sphère la plus aboutie (à recadrer dans le cercle),
+    sphère bas-gauche dégradée en "patate hachurée"
+    (cercle de départ devenu ovale), tendance à empiler
+    plusieurs équateurs parallèles au lieu de rester sur
+    équateur + méridien
+  - Warmup : ellipses molles en fin de grosse série,
+    pousser la quantité dégrade la qualité
+À retenir / à tester demain :
+  - Cylindres en boîte : 4-6, orientations 3/4 marquées,
+    minor axis tracé EN ENTIER traversant les deux faces,
+    vérification mentale "scale shift et degree shift vont
+    dans le même sens"
+  - Sphères : 6-8, contrainte stricte "2 ellipses
+    perpendiculaires (équateur + méridien), dans le
+    cercle, pas plus". Sur les 2 dernières, amorce d'une
+    3e ellipse pour préparer le cross-contour
+  - Warmup : limiter le volume, lever le crayon dès qu'une
+    ellipse devient molle
+Fichier : 2026_05_20_exercice.kra
+
 --- Fin du journal ---
